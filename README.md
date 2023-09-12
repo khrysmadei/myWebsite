@@ -1,11 +1,12 @@
-# <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
+# Welcome to my Personal Website
 
-[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
+[![Check my Website](https://img.shields.io/badge/Check%20my%20website-Click%20Here-dark%20green.svg)](https://650077f1fa00dc05dcfbbeec--khrysmadeiweb.netlify.app)
+[![Author](https://img.shields.io/badge/Author-Khrysma%20Dei%20Caldina-blue.svg)]([https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/khrysma-dei-caldina-7b4456235/)https://www.linkedin.com/in/khrysma-dei-caldina-7b4456235/)
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/commit/master)
+![Website](Sample-Web.JPG)
 
- <p align="justify">This website was forked from an existing website, I modified it to custom my portfolio UI.  I have also integrated particle.js from vincentgarreau.com/particles.js, this website serves as my portfolio to showcase my projects and achievements.</p>
+<p align="justify"> I customized an existing free template, I utilized Particle.js for my UI and this website serves as my online portfolio that showcases my computing skills, featured projects, and resume.
 
-![My Alternate Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/Sample-Web.jpg)
+To deploy my website online I used netlify.com</p>
 
-Please hit me up at khrysmadeei.caldina@wvsu.edu.ph if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
+Connect with me 📩 kd.caldina@gmail.com 📩
